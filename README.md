@@ -71,7 +71,6 @@ Skills: Next / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisarvam&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaisarvam)  
 
 ![GitHub metrics](https://metrics.lecoq.io/kaisarvam)  
 
