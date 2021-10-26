@@ -69,7 +69,7 @@ Skills: Next / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarvam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://stoic-carson-fb7005.netlify.app)
+![GitHub stats](https://stoic-carson-fb7005.netlify.app/a.png)
 
 [GitHub metrics](https://metrics.lecoq.io/kaisarvam)  
 
