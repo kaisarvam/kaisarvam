@@ -71,7 +71,7 @@ Skills: Next / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://stoic-carson-fb7005.netlify.app)
 
-![GitHub metrics](https://metrics.lecoq.io/kaisarvam)  
+[GitHub metrics](https://metrics.lecoq.io/kaisarvam)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaisarvam)  
 
