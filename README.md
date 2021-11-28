@@ -6,7 +6,7 @@
 Skills: Next / REACT / JS / HTML / CSS
 
 - 🏫 I currently work  at [Jamuna Group](https://www.estorejamuna.com/)
-- 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
+- 🌱 I'm currently Learning **Node, Express & MongoDB**
 - 💻 Most used code `console.log(typeof())`
 - 🎯 2021 Goals: **MERN Stack Development**
 - 📫 My Portfolio: [Kaisar Sarwar](https://github.com/kaisarvam)
