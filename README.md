@@ -14,7 +14,7 @@ Skills: Next / REACT / JS / HTML / CSS
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kaisarvam.kaisarvam)
 
-![Profile Follower Count](https://img.shields.io/github/followers/kaisarvam.svg?style=for-the-badge&logo=github&label=Follower&maxAge=10)
+![Profile Follower Count](https://img.shields.io/github/followers/kaisarvam.svg?style=for-the-badge&logo=github&label=Follower&maxAge=11)
 
 
 
