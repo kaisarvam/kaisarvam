@@ -5,7 +5,7 @@
 
 Skills: Next / REACT / JS / HTML / CSS
 
-- 🏫 I currently work  at [Jamuna Group](https://www.estorejamuna.com/)
+- 🏫 I currently work  at [Strativ AB](https://strativ.se/sv)
 - 🌱 I'm currently Learning **Node, Express & MongoDB**
 - 💻 Most used code `console.log(typeof())`
 - 🎯 2021 Goals: **MERN Stack Development**
