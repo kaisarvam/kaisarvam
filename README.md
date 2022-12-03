@@ -1,4 +1,4 @@
-# 🖐 Hi , I am [Kaisar sarwar](https://github.com/kaisarvam)
+# 🖐 Hi , I am [Kaisar sarwar](https://lucid-bohr-a7a084.netlify.app/)
 #### i am an web developer
 ![i am an web developer](https://i.ibb.co/0jCVJP1/xxll.jpg)
 
@@ -9,7 +9,7 @@ Skills: Next / REACT / JS / HTML / CSS
 - 🌱 I'm currently Learning **Node, Express & MongoDB**
 - 💻 Most used code `console.log(typeof())`
 - 🎯 2021 Goals: **MERN Stack Development**
-- 📫 My Portfolio: [Kaisar Sarwar](https://github.com/kaisarvam)
+- 📫 My Portfolio: [Kaisar Sarwar](https://lucid-bohr-a7a084.netlify.app/)
 
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kaisarvam.kaisarvam)
