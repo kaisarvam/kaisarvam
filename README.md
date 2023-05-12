@@ -8,7 +8,7 @@ Skills: Next / REACT / JS / HTML / CSS
 - 🏫 I currently work  at [Strativ AB](https://strativ.se/sv)
 - 🌱 I'm currently Learning **Node, Express & MongoDB**
 - 💻 Most used code `console.log(typeof())`
-- 🎯 2021 Goals: **MERN Stack Development**
+- 🎯 2023 Goals: **Become a FullStack Developer**
 - 📫 My Portfolio: [Kaisar Sarwar](https://lucid-bohr-a7a084.netlify.app/)
 
 
