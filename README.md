@@ -91,6 +91,4 @@ Currently, I am working on a SaaS product for a tour booking system in Sweden. T
 
 [GitHub metrics](https://metrics.lecoq.io/kaisarvam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaisarvam)  
-
 ![Profile views](https://gpvc.arturio.dev/kaisarvam)  
