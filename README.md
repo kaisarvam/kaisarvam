@@ -39,7 +39,7 @@ Dhaka, Bangladesh
 ## Education
 
 **Daffodil International University-DIU**  
-Bachelor of Applied Science - BASc, Computer Science  
+Bachelor of Science - BSc in Computer Science & Engineering 
 2013 - 2017
 
 ## Project Highlights
