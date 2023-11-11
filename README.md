@@ -10,7 +10,7 @@ Currently, I am extensively exploring backend development with tools like ![Expr
 
 ## Experience
 
-**Jr. Software Engineer**  
+**Software Engineer**  
 Strativ AB · Full-time  
 Dec 2021 - Present · 1 yr 6 mos  
 Olof Palmes gata 29, 4th Floor, 111 22 Stockholm, Sweden
