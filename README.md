@@ -12,7 +12,7 @@ Currently, I am extensively exploring backend development with tools like ![Expr
 
 **Software Engineer**  
 Strativ AB · Full-time  
-Dec 2021 - Present · 2 yr 2 monts  
+Dec 2021 - Present 
 Olof Palmes gata 29, 4th Floor, 111 22 Stockholm, Sweden
 
 - Collaborated with a team of developers to build and maintain web applications using React and Next.js.
